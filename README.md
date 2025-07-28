@@ -17,7 +17,7 @@ On-time delivery is critical in logistics and e-commerce. Predicting shipment de
 📊 Data Overview
 
 The dataset contains approximately 11,000 records.  
-Data source: Kaggle — Delivery Time Prediction Dataset
+Data source: [Kaggle - Customer Analytics](https://www.kaggle.com/datasets/prachi13/customer-analytics)
 
 
 
