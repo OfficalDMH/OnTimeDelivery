@@ -38,7 +38,7 @@ Model performance metrics:
 This initial model provides a solid baseline for predicting shipment delays.  
 With further data preprocessing, feature engineering, and model tuning, the performance can be significantly improved.
 
-⸻
+
 
 🛠️ Technologies Used  
 • Python  
