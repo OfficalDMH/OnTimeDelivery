@@ -4,28 +4,28 @@ A machine learning project to predict whether shipments will arrive on time, hel
 
 📎 Project Link
 
-[Insert your GitHub project link here]
+[View the project on GitHub](https://github.com/OfficalDMH/OnTimeDelivery)
 
-⸻
+
 
 🧐 Why It Matters?
 
 On-time delivery is critical in logistics and e-commerce. Predicting shipment delays helps companies improve customer satisfaction and reduce operational costs by enabling proactive actions.
 
-⸻
+
 
 📊 Data Overview
 
 The dataset contains approximately 11,000 records.  
 Data source: Kaggle — Delivery Time Prediction Dataset
 
-⸻
+
 
 🧠 Model Used
 
 We used a Logistic Regression model — effective for binary classification tasks due to its simplicity and interpretability.
 
-⸻
+
 
 📈 Accuracy and Evaluation
 
@@ -48,13 +48,13 @@ With further data preprocessing, feature engineering, and model tuning, the perf
 • Matplotlib  
 • Seaborn
 
-⸻
+
 
 📊 Visualizations
 
 We used various charts (bar, box, histogram, pie) to explore delivery patterns, customer ratings, discounts, and product importance.
 
-⸻
+
 
 ▶️ How to Run
 
